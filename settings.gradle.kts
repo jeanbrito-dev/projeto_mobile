@@ -1,1 +1,1 @@
-rootProject.name = "FoodExpress"
+rootProject.name = "GainOS"
